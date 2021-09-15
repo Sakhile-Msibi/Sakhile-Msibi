@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </p>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://sakhile-msibi.github.io/fullpost/deployNgtoGhpages.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />A guide on how to deploy Angular applications to GitHub Pages</b></a><br/><i>A simple guid to get you started with using GitHub pages to host your Angular applications.</i></li>
+  <li><a href="https://sakhile-msibi.github.io/fullpost/deployNgtoGhpages.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />A guide on how to deploy Angular applications to GitHub Pages</b></a><br/><i>A simple guid to get you started with using GitHub pages to host your Angular applications.</i></li>
   <li><a href="https://sakhile-msibi.github.io/fullpost/identity.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />ASP.NET Core Identity</b></a><br/><i>A introduction in using AspNetCore Identity</i></li>
-  <li><a href="https://sakhile-msibi.github.io/fullpost/solidprinciples.html"><b>SOLID principles</b></a><br/><i>Fundamentals of creating clean architecture</i></li>
+  <li><a href="https://sakhile-msibi.github.io/fullpost/solidprinciples.html"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b>SOLID principles</b></a><br/><i>Fundamentals of creating clean architecture</i></li>
 </ul>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Sakhile-Msibi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Thembinkosi_198" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sakhile-msibi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
