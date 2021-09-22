@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 </p>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://sakhile-msibi.github.io/fullpost/deployNgtoGhpages.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />A guide on how to deploy Angular applications to GitHub Pages</b></a><br/><i>A simple guid to get you started with using GitHub pages to host your Angular applications.</i></li>
+  <li><a href="https://sakhile-msibi.github.io/fullpost/deployNgtoGhpages.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Build a ToDo list application using .Net 5.0 Web API and Microsoft SQL Server</b></a><br/><i>A .Net 5.0 application with authentication.</i></li>
+  <li><a href="https://sakhile-msibi.github.io/fullpost/deployNgtoGhpages.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />A guide on how to deploy Angular applications to GitHub Pages</b></a><br/><i>A simple guide to get you started with using GitHub pages to host your Angular applications.</i></li>
   <li><a href="https://sakhile-msibi.github.io/fullpost/identity.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />ASP.NET Core Identity</b></a><br/><i>A introduction in using AspNetCore Identity</i></li>
   <li><a href="https://sakhile-msibi.github.io/fullpost/solidprinciples.html"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b>SOLID principles</b></a><br/><i>Fundamentals of creating clean architecture</i></li>
 </ul>
