@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </ul>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Sakhile-Msibi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Thembinkosi_198" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sakhile-msibi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.c-sharpcorner.com/members/sakhile-msibi">
-<img src="https://www.c-sharpcorner.com/members/sakhile-msibi/flair.png" width="260" height="58" alt="profile for Sakhile C# Corner - A Social Community of Developers and Programmers" title="profile for Sakhile at C# Corner - A Social Community of Developers and Programmers" />?theme=dark
+<img src="https://www.c-sharpcorner.com/members/sakhile-msibi/flair.png" width="260" height="58" alt="profile for Sakhile C# Corner - A Social Community of Developers and Programmers" title="profile for Sakhile at C# Corner - A Social Community of Developers and Programmers" ?theme=dark />
 </a></p>
