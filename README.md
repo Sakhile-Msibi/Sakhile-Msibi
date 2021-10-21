@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://www.c-sharpcorner.com/article/jwt-authentication-in-a-net-5-0-application/"><b><img src="https://emojipedia-   us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />JWT Authentication In A .NET 5.0 Application</b></a><br/><i>A discussion about JWT authentication in a .NET 5.0 Web API application.</i></li>
+  <li><a href="https://www.c-sharpcorner.com/article/jwt-authentication-in-a-net-5-0-application/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />JWT Authentication In A .NET 5.0 Application</b></a><br/><i>A discussion about JWT authentication in a .NET 5.0 Web API application.</i></li>
   
   <li><a href="https://www.c-sharpcorner.com/article/build-a-todo-list-application-using-angular-net-5-0-web-api-and-microsoft-sql/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Build A ToDo List Application Using Angular, .Net 5.0 Web API And Microsoft SQL Server</b></a><br/><i>An Angular and .Net 5.0  frontend application with authentication.</i></li>
   
